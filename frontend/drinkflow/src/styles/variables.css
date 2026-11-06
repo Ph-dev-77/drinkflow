@@ -1,0 +1,28 @@
+:root {
+    /*tipografia*/
+  --font-primary: 'Inter', sans-serif;
+
+  /*Pesos*/
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  
+  /* Cores principais */
+  --color-primary: #D99A42;
+  --color-primary-hover: #C48632;
+  --color-dark: #202329;
+
+  /* Fundos */
+  --color-background: #FAF9F6;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #F0E5D2;
+
+  /* Textos */
+  --color-text: #252525;
+  --color-text-light: #FFFFFF;
+  --color-text-muted: #777777;
+
+  /* Bordas */
+  --color-border: #E8E6E1;
+}
